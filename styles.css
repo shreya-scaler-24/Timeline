@@ -49,7 +49,7 @@ body {
     margin:0;
 }
 
-.event__content.inside {
+.event__content.content {
     display: flex;
     align-items: center;
     position: relative;
@@ -57,7 +57,7 @@ body {
     margin-left: 15%;
 }
 
-.inside__circle {
+.content__circle {
     width: 20px;
     height: 20px;
     background-color: #4CAF50;
@@ -68,7 +68,7 @@ body {
     transform: translateY(-50%);
 }
 
-.inside__description {
+.content__description {
     margin: 0;
     padding-left: 30px;
 }
