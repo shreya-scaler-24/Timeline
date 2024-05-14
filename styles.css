@@ -26,6 +26,8 @@ body {
     width: 4px;
     background-color: #4CAF50;
     z-index: 0;
+    margin-top: 3%;
+    height: 100vh;
 }
 
 .timeline__event {
