@@ -49,7 +49,7 @@ body {
     margin:0;
 }
 
-.event__content {
+.event__content.inside {
     display: flex;
     align-items: center;
     position: relative;
@@ -57,7 +57,7 @@ body {
     margin-left: 15%;
 }
 
-.timeline__circle {
+.inside__circle {
     width: 20px;
     height: 20px;
     background-color: #4CAF50;
@@ -68,7 +68,7 @@ body {
     transform: translateY(-50%);
 }
 
-.timeline__description {
+.inside__description {
     margin: 0;
     padding-left: 30px;
 }
